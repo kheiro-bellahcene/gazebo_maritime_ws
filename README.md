@@ -36,5 +36,5 @@ gz topic -t /model/wam-v/joint/leftt_engine_propeller_joint/cmd_thrust -m gz.msg
 ```
 ## 🚧 Work in Progress
 
-I am currently collaborating with the repository owner, @Mohamed222i, on his end-of-study project.  
-We are adding sensors to the model's SDF file and developing a new package to implement an Extended Kalman Filter (EKF).
+I am currently collaborating with the repository owner, @Mohamed222i, on his end-of-study project.
+We are adding sensors to the model's SDF file and developing a new package to implement an Extended Kalman Filter (EKF) for sensor fusion.
