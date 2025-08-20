@@ -6,8 +6,14 @@ To start our simulation In Terminal, we launch through these lines of codes :
 
 ```bash
 source ~/.bashrc
+```
+```bash
 colcon build --merge-install
+```
+```bash
 source install/setup.bash
+```
+```bash
 ros2 launch ros2_maritime display.launch.py
 ```
 
